@@ -1,3 +1,6 @@
+### Capstone Project Repo is here: 
+https://github.com/elizasohn/simple-drawing-pad.git
+
 ##### Name of Student:
 Eliza Sohn
 
